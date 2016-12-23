@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tile Fighter.CSharp.Plugins", "Tile Fighter.CSharp.Plugins.csproj", "{99387B13-7AA1-A4E8-F62D-13093AF2CEA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tile Fighter.CSharp", "Tile Fighter.CSharp.csproj", "{3BAB03DC-F6BB-A0D5-47B0-00F2F9278205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tile Fighter.CSharp.Editor", "Tile Fighter.CSharp.Editor.csproj", "{3684D9E6-EF9E-36E0-E538-5F32592B97AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99387B13-7AA1-A4E8-F62D-13093AF2CEA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99387B13-7AA1-A4E8-F62D-13093AF2CEA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99387B13-7AA1-A4E8-F62D-13093AF2CEA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99387B13-7AA1-A4E8-F62D-13093AF2CEA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BAB03DC-F6BB-A0D5-47B0-00F2F9278205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BAB03DC-F6BB-A0D5-47B0-00F2F9278205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BAB03DC-F6BB-A0D5-47B0-00F2F9278205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BAB03DC-F6BB-A0D5-47B0-00F2F9278205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3684D9E6-EF9E-36E0-E538-5F32592B97AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3684D9E6-EF9E-36E0-E538-5F32592B97AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3684D9E6-EF9E-36E0-E538-5F32592B97AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3684D9E6-EF9E-36E0-E538-5F32592B97AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
